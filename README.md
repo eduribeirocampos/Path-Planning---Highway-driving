@@ -1,14 +1,14 @@
 [//]: # (Image References)
  
-[image1]: ./Support/Behavior_control_diagram.jpg 
-[image2]: ./Support/Scheduling_Compute_time.jpg
-[image3]: ./Support/Finite_state_machine.jpg
-[image4]: ./Support/Cost_function_classes.jpg
-[image5]: ./Support/frenet_coordinate_system.jpg 
-[image6]: ./Support/Prediction_1_example.jpg 
-[image7]: ./Support/cubic_Spline.jpg
-[image8]: ./Support/Cost_schematic_chart.jpg
-[image9]: ./Support/simulator_lap.jpg
+[image1]: ./support/Behavior_control_diagram.jpg 
+[image2]: ./support/Scheduling_Compute_time.jpg
+[image3]: ./support/Finite_state_machine.jpg
+[image4]: ./support/Cost_function_classes.jpg
+[image5]: ./support/frenet_coordinate_system.jpg 
+[image6]: ./support/Prediction_1_example.jpg 
+[image7]: ./support/cubic_Spline.jpg
+[image8]: ./support/Cost_schematic_chart.jpg
+[image9]: ./support/simulator_lap.jpg
 
 
 ## Eduardo Ribeiro de Campos - September 2019
@@ -185,4 +185,4 @@ You can download the Term3 Simulator which contains the Path Planning Project fr
 Below a video to show the code results:
 
 
-[![alt text][image9]](./support/simulator_lap.mp4)
+[![alt text][image9]](https://youtu.be/XsbE6UfOYy0)
