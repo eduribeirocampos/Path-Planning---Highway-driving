@@ -8,7 +8,7 @@
 [image6]: ./support/Prediction_1_example.jpg 
 [image7]: ./support/cubic_Spline.jpg
 [image8]: ./support/Cost_schematic_chart.jpg
-[image9]: ./support/simulator_lap.jpg
+[image9]: ./support/Simulator_lap.jpg
 
 
 ## Eduardo Ribeiro de Campos - September 2019
@@ -182,7 +182,6 @@ the code is available in [spline.h](./src/spline.h)file.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).
 
 
-Below a video to show the code results:
-
+click on the next picture to open the video to show the code results:
 
 [![alt text][image9]](https://youtu.be/XsbE6UfOYy0)
