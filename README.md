@@ -19,7 +19,7 @@
 
 To conclude the project is necessary reach the goals according to the project [rubric](https://review.udacity.com/#!/rubrics/1971/view).
 
-The unput README File from udacity with a lot of instructions about the projecy is [here](./Udacity_README.md)
+The input README File from udacity with a lot of instructions about the project is [here](./Udacity_README.md)
 
 
 
