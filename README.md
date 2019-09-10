@@ -139,7 +139,7 @@ Main points to be considered about statements.
 
 **Prepare for lane change:**
 
-- The prior condition to the car plan a change lane maneuver is find a other car ahead in a distance less than 30m. if this condition is not true, the car will keep the lane accelerating until the speed limit. 
+- The prior condition to the car plan a change lane maneuver is find an other car ahead in a distance less than 30m. if this condition is not true, the car will keep the lane accelerating until the speed limit. 
 
 **Lane change:**
 
